@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cibukapalusa.netlify.app/sitemap.xml
